@@ -1,0 +1,130 @@
+{
+  "recipes": [
+    {
+      "name": "Apple",
+      "description": "An apple a day keeps the doctor away.\n\nTime: 1 min\nServings:  1\n\nIngredients: \n1 apple\n\nDirections: \nWash and eat.\n\nOptional:\nslice, eat with peanut butter or almond butter\n\nSubstitutions: applesauce\n\nUrl: https://www.hsph.harvard.edu/nutritionsource/food-features/apples/\n\n",
+      "image": "https://cdn.pixabay.com/photo/2016/11/18/13/47/apple-1834639_960_720.jpg",
+      "id": 1
+    },
+    {
+      "name": "Bean Chili",
+      "description": "\"The diet, to be healthy, has to be mostly fruits, vegetables, beans, nuts, and seeds.\" Joel Fuhrman\n\nTime:  30 mins \nServings:  2\n\nIngredients: \n1 tablespoon olive oil \n⅓ onion, chopped \n⅔ cloves garlic, minced\n¼ cup and 1 tablespoon and 1 teaspoons dry red lentils\n1 ⅓ cups vegetable broth\n1 (15 ounce) cans kidney beans, rinsed and drained\n1 ⅓ cups tomato puree\n1 teaspoons ground sweet paprika\n⅓ teaspoon chili powder\nsalt and freshly cracked black pepper to taste\n⅓ bunch fresh chives, chopped\n\nDirections: \nHeat olive oil in a pan over medium heat and cook onion until soft and translucent, about 5 minutes. Add garlic and cook until fragrant, about 30 seconds. \nStir in lentils.\n Pour in vegetable broth and simmer for 20 minutes. \nAdd kidney beans and tomato puree. \nBring to a boil; reduce heat, cover, and simmer until flavors combine, about 10 minutes. \nSeason with paprika, chili powder, salt, and pepper.\n\nURL: https://www.allrecipes.com/recipe/260731/easy-vegan-chili/\nhttps://nutrition",
+      "image": "https://cdn.pixabay.com/photo/2020/12/11/17/05/chili-5823297_960_720.jpg",
+      "id": 2
+    },
+    {
+      "name": "Coffee",
+      "description": "“Coffee, the favorite drink of the civilized world.” – Thomas Jefferson\n\n1 ¼ cups 2% milk\n2 tablespoons any flavor of flavored syrup\n1 (1.5 fluid ounce) jigger brewed espresso\n\nPour milk into a steaming pitcher and heat to 145 degrees F to 165 degrees F (65 to 70 degrees C) using the steaming wand. Measure the flavored syrup into a large coffee mug. Brew espresso, then add to mug. Pour the steamed milk into the mug, using a spoon to hold back the foam. Spoon foam over the top.\n\nURL: \nhttps://www.allrecipes.com/recipe/146967/flavored-latte/\nhttps://www.mayoclinic.org/healthy-lifestyle/nutrition-and-healthy-eating/expert-answers/coffee-and-health/faq-20058339\n",
+      "image": "https://cdn.pixabay.com/photo/2014/05/02/21/50/laptop-336378_960_720.jpg",
+      "id": 3
+    },
+    {
+      "name": "Dark Chocolate",
+      "description": "\"I love good food. For me, that means lots of green juice, salad, and good dark chocolate.\" Stephanie Ellis\n\nTime: 0  mins \nServings:  1\n\nIngredients: \nDark Chocolate\n\nDirections: \nEnjoy!\n\nLink: https://www.hsph.harvard.edu/nutritionsource/food-features/dark-chocolate/",
+      "image": "https://cdn.pixabay.com/photo/2017/08/01/02/10/dark-2562840_960_720.jpg",
+      "id": 4
+    },
+    {
+      "name": "Egg Salad",
+      "description": "\"The greatest achievement was at first and for a time a dream. The oak sleeps in the acorn, the bird waits in the egg, and in the highest vision of the soul a waking angel stirs. Dreams are the seedlings of realities.\" James Allen\n\nTime:  mins \nServings:  \n\nIngredients: \n4 eggs \n1 (10 ounce) package fresh spinach\n1 small onion, chopped \n6 tablespoons vegetable oil \n3 tablespoons lemon juice \n2 cloves garlic, minced\n\nDirections: \nStep 1\nPlace eggs in a saucepan and cover with cold water. Bring water to a boil; cover, remove from heat, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, cool, peel and chop.\n\nStep 2\nIn a large bowl, combine the eggs, spinach and onion.\n\nStep 4\nIn a small bowl, whisk together the oil, lemon juice, garlic and salt and pepper. Pour over salad and toss well to coat.",
+      "image": "https://cdn.pixabay.com/photo/2017/08/05/12/32/flat-lay-2583212_960_720.jpg",
+      "id": 5
+    },
+    {
+      "name": "Flaxseeds",
+      "description": "This is: quick, easy, healthy\n\nTime:  mins \nServings:  \n\nIngredients: \nground flaxseeds\n\nDirections: \nadd to applesauce, oatmeal, or protein smoothie.",
+      "image": "https://cdn.pixabay.com/photo/2018/09/08/18/21/linseed-3663021_960_720.jpg",
+      "id": 6
+    },
+    {
+      "name": "Green Tea",
+      "description": "This is: quick, easy, and healthy\n\nTime:  mins \nServings:  \n\nIngredients: \ngreen tea bags\nhot water\n\n\n",
+      "image": "https://cdn.pixabay.com/photo/2016/03/26/13/17/tea-1280564_960_720.jpg",
+      "id": 7
+    },
+    {
+      "name": "Honey",
+      "description": "This is: quick, easy, healthy, and good.\n\nIngredient\nHoney\n\nDirections\nAdd to tea\n\n\n",
+      "image": "https://cdn.pixabay.com/photo/2015/09/24/00/28/honey-954602_960_720.jpg",
+      "id": 8
+    },
+    {
+      "name": "Iceberg Lettuce",
+      "description": "This is: quick, easy, healthy\n\nTime:  mins \nServings:  \n\nIngredients: \nIceberg lettuce\nsalad dressing\n\nDirections: \nWash the lettuce\nChop lettuce\nAdd dressing",
+      "image": "https://cdn.pixabay.com/photo/2021/02/10/14/17/iceberg-lettuce-6002218_960_720.jpg",
+      "id": 9
+    },
+    {
+      "name": "Jackfruit",
+      "description": "Jackfruit curry\n\nTime:  mins \nServings:  \n\nIngredients: \n\n1 tablespoon coconut oil\n1 (20 ounce) can jackfruit in brine - drained, rinsed, and cut into bite-sized pieces\n1 onion, chopped \n3 cloves garlic, minced\n1 (2 inch) piece ginger, grated\n2 teaspoons curry powder, or more to taste\n1 cup vegetable broth\n1 (8 ounce) can baby corn, drained\n1 white potatoes, cubed\n1 cup coconut milk\nsalt and ground black pepper to taste\n\n\nDirections: \nStep 1\nHeat coconut oil in a large skillet over medium high heat. Cook and stir jackfruit until cooked through, about 5 minutes. Add onion and garlic; cook over medium heat until softened, about 6 minutes.\n\nStep 2\nStir ginger and curry powder into jackfruit; mix until flavors combine, about 2 minutes. Add vegetable broth, baby corn, and potatoes; cook until potatoes soften, 7 to 10 minutes.\n\nStep 3\nPour coconut milk into jackfruit curry and cook until fully heated, about 4 minutes. Season with salt and pepper.",
+      "image": "https://cdn.pixabay.com/photo/2021/06/02/01/35/jackfruit-curry-6303119_960_720.jpg",
+      "id": 10
+    },
+    {
+      "name": "Kale",
+      "description": "This is: quick? easy? healthy?\n\nTime:  mins \nServings:  \n\nIngredients: \n1 bunch kale\n2 tablespoons olive oil \n4 cloves garlic, minced\n\nDirections: \nStep 1\nTear the kale leaves into bite-size pieces from the thick stems; discard the stems.\n\nStep 2\nHeat the olive oil in a large pot over medium heat. Cook and stir the garlic in the hot oil until softened, about 2 minutes. Add the kale and continue cooking and stirring until the kale is bright green and wilted, about 5 minutes more.",
+      "image": "https://cdn.pixabay.com/photo/2017/05/16/08/09/kale-2317181_960_720.jpg",
+      "id": 11
+    },
+    {
+      "name": "Lentils",
+      "description": "This is: quick? easy? healthy?\n\nTime:  mins \nServings:  \n\nIngredients: \n1 onion, chopped \n¼ cup olive oil \n2 carrots, diced\n2 stalks celery, chopped\n2 cloves garlic, minced\n1 teaspoon dried oregano\n1 bay leaf\n1 teaspoon dried basil\n1 (14.5 ounce) can crushed tomatoes\n2 cups dry lentils\n8 cups water\n½ cup spinach, rinsed and thinly sliced\n2 tablespoons vinegar\nsalt to taste\nground black pepper to taste\n\nDirections: \nStep 1\nIn a large soup pot, heat oil over medium heat. Add onions, carrots, and celery; cook and stir until onion is tender. Stir in garlic, bay leaf, oregano, and basil; cook for 2 minutes.\n\nStep 2\nStir in lentils, and add water and tomatoes. Bring to a boil. Reduce heat, and simmer for at least 1 hour. When ready to serve stir in spinach, and cook until it wilts. Stir in vinegar, and season to taste with salt and pepper, and more vinegar if desired.",
+      "image": "https://cdn.pixabay.com/photo/2018/10/10/22/28/lentil-soup-3738547_960_720.jpg",
+      "id": 12
+    },
+    {
+      "name": "Minestrone",
+      "description": "This is: healthy\n\nTime:  mins \nServings:  \n\nIngredients: \n4 tablespoons margarine\n¾ cup chopped onion \n¼ cup chopped celery\n½ cup chopped carrots\n1 (19 ounce) can cannellini beans\n½ cup shredded cabbage\n1 (14.5 ounce) can stewed tomatoes\n1 tablespoon tomato paste\n1 ½ cups cubed potatoes\n1 quart chicken broth \n2 cloves garlic, minced\n2 tablespoons dried parsley\n1 teaspoon salt\n½ cup elbow macaroni\n½ cup grated Parmesan cheese\n\nDirections: \nStep 1\nMelt butter or margarine in a heavy pot over medium heat. Add onion, celery, and carrots; saute for a few minutes.\n\nStep 2\nAdd beans, cabbage, tomatoes, tomato paste, potato, stock, garlic, parsley, and salt to the pot. Bring to a boil, cover, and reduce heat. Simmer for approximately 1 hour until vegetables are barely tender.\n\nStep 3\nAdd pasta, and simmer for 30 minutes more. Correct seasoning, and serve hot with grated cheese.",
+      "image": "https://cdn.pixabay.com/photo/2013/09/07/02/34/soup-179725_960_720.jpg",
+      "id": 13
+    },
+    {
+      "name": "Nuts",
+      "description": "This is: quick, easy, healthy\n\nTime:  mins \nServings:  \n\nIngredients: \nAlmonds or other nuts\n\nDirections: \n",
+      "image": "https://cdn.pixabay.com/photo/2016/10/25/12/56/almonds-1768792_960_720.jpg",
+      "id": 14
+    },
+    {
+      "name": "Oatmeal",
+      "description": "This is: quick, easy, healthy\n\nTime:  mins \nServings:  \n\nIngredients: \n\n½ cup oald fashioned oatmeal\n1 cup water\n2 tablespoons fresh blueberries, or more to taste \n1 tablespoon pure maple syrup\n\nDirections: \nBoil water\nAdd oats\nTop with berries and sweetener",
+      "image": "https://cdn.pixabay.com/photo/2014/11/14/20/20/blueberries-531209_960_720.jpg",
+      "id": 15
+    },
+    {
+      "name": "Pumpkin cheesecake",
+      "description": "This is:  healthy\n\nTime:  mins \nServings:  \n\nIngredients: \ncooking spray \n1 (8 ounce) package cream cheese, softened\n1 (15 ounce) can pumpkin puree\n5 eggs \n1 cup granular  sweetener (such as stevia or monkfruit)\n1 teaspoon pumpkin pie spice\n1 teaspoon ground cinnamon\n1 teaspoon vanilla extract\n\nDirections\n\nStep 1\nPreheat the oven to 350 degrees F (175 degrees C). Spray an 8-inch glass baking dish with cooking spray.\n\nStep 2\nPlace cream cheese in the bowl of a stand mixer fitted with the paddle attachment; beat on high speed until smooth. Add pumpkin puree, eggs, sweetener, pumpkin pie spice, cinnamon, and vanilla extract. Beat well. Pour batter into the prepared dish.\n\nStep 3\nBake in the preheated oven until center is set, about 40 minutes. Cool to room temperature before serving, or serve cold",
+      "image": "https://cdn.pixabay.com/photo/2015/04/03/04/14/pumpkin-704626_960_720.jpg",
+      "id": 16
+    },
+    {
+      "name": "Quinoa",
+      "description": "This is: quick? easy? healthy?\n\nTime:  mins \nServings:  \n\nIngredients: \n1 cup quinoa\n⅛ teaspoon salt\n1 ¾ cups water\n1 cup canned garbanzo beans (chickpeas), drained\n1 tomato, chopped \n1 clove garlic, minced\n3 tablespoons lime juice \n4 teaspoons olive oil \n½ teaspoon ground cumin\n1 pinch salt and pepper to taste\n½ teaspoon chopped fresh parsley\n\nDirections: \nStep 1\nPlace the quinoa in a fine mesh strainer, and rinse under cold, running water until the water no longer foams. Bring the quinoa, salt, and water to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until the quinoa is tender, 20 to 25 minutes.\n\nStep 2\nOnce done, stir in the garbanzo beans, tomatoes, garlic, lime juice, and olive oil. Season with cumin, salt, and pepper. Sprinkle with chopped fresh parsley to serve.",
+      "image": "https://cdn.pixabay.com/photo/2016/11/17/22/57/pan-1832926_960_720.jpg",
+      "id": 17
+    },
+    {
+      "name": "Romaine",
+      "description": "This is: quick, easy, healthy\n\nTime:  mins \nServings:  \n\nIngredients: \n¼ cup red wine vinegar\n¾ cup vegetable oil \n1 tablespoon honey\n½ teaspoon salt\n¼ teaspoon ground black pepper\n¼ cup chopped green onion\n1 large head romaine lettuce, torn into bite-size pieces\n3 oranges, peeled and thinly sliced\n\nDirections: \nStep 1\nIn a small container with a tight-fitting lid, combine the vinegar, oil, honey, salt, pepper and green onion. Close the lid, and shake vigorously to blend.\n\nStep 2\nPlace the romaine lettuce into a large serving bowl. Sprinkle with dressing and toss to coat. Add orange slices and toss gently. Serve immediately.",
+      "image": "https://cdn.pixabay.com/photo/2017/07/03/18/14/lettuce-2468495_960_720.png",
+      "id": 18
+    },
+    {
+      "name": "What is the best diet for humans?",
+      "description": "\"convinced us that responses to food are personal, and that diets that maintain normal blood glucose levels must therefore be personally tailored to the individual. \"https://youtu.be/0z03xkwFbw4\n\n",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/28/recipe-575434_960_720.png",
+      "id": 19
+    },
+    {
+      "name": "spinach an garlic",
+      "description": "This is: quick? easy? healthy? good?\n\nTime:  mins \nServings:  \n\nIngredients: \n1 tablespoon extra-virgin olive oil \n1 (10 ounce) bag spinach leaves\n1 ½ teaspoons garlic salt\n¼ cup grated Parmesan cheese\n\nDirections: \nHeat the olive oil in a large skillet over medium heat. Add the spinach to the skillet and cover; allow to cook 5 minutes. Stir in the garlic salt and cover again for another 5 minutes; remove from heat. Sprinkle with Parmesan cheese to serve.\n\nRecipe link:\n\nUse free images. Recipe Ingredients and directions are free to use. Make your own description. ",
+      "image": "https://cdn.pixabay.com/photo/2016/08/29/16/25/water-spinach-1628620_960_720.jpg",
+      "id": 21
+    },
+    {
+      "name": "Recipe",
+      "description": "xxxx\n\nx\n\n\n\n\n\n'\n\n\n",
+      "image": "https://cdn.pixabay.com/photo/2014/12/21/23/28/recipe-575434_960_720.png",
+      "id": 22
+    }
+  ]
+}
