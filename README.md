@@ -20,6 +20,30 @@ List of features ready and TODOs for future development
 - Update
 - Delete
 
+New Recipe Book:
+![image](https://user-images.githubusercontent.com/12488769/144749975-63546ec1-a5cc-4dcf-b7d5-8a39921fc2c2.png)
+
+Populated recipe book:
+![image](https://user-images.githubusercontent.com/12488769/144750326-0053e32a-c982-4829-89b2-9e38c935b96f.png)
+
+Add Recipe:
+![image](https://user-images.githubusercontent.com/12488769/144750044-1934a165-aaba-4f14-8c94-fffceb2d8bec.png)
+
+List Recipes:
+![image](https://user-images.githubusercontent.com/12488769/144750371-689f87f9-8f33-4abf-a4b9-4b04601d30fc.png)
+
+View Details:
+![image](https://user-images.githubusercontent.com/12488769/144750403-52910c6a-7693-44ff-987b-31a718ee365b.png)
+
+Update:
+![image](https://user-images.githubusercontent.com/12488769/144750478-8cd2311d-d932-421c-acde-433c94f87880.png)
+
+List Recipes:
+![image](https://user-images.githubusercontent.com/12488769/144750371-689f87f9-8f33-4abf-a4b9-4b04601d30fc.png)
+
+Delete
+![image](https://user-images.githubusercontent.com/12488769/144750510-2d99252b-8708-475d-8126-e9facd59f812.png)
+
 To-do list:
 - Add confirm message for delete
 
@@ -46,7 +70,7 @@ To-do list:
     database.json
 11. Add some data to the database,json file 
 12. start the json server, 
-    json-server --watch .\backendbd\database.json
+    json-server --watch .\backenddb\database.json
 13. Your server will start
 14. open the browser and access the url to get the data from json fil
     http://localhost:3000/recipes 
@@ -114,6 +138,8 @@ The functionality is listed as below
 this is a dynamic feature as some recipe will require more or ingredients then other.
 
 ## Usage
+ start the json server, 
+    json-server --watch .\backenddb\database.json
 Start the app
     ng s -o
     
