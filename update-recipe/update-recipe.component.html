@@ -1,0 +1,38 @@
+<h3>Update: {{recipe.name}}</h3>
+<br>
+<div [hidden]="submited" style="width: 400px;">
+    <form (ngSubmit)="onSubmit()" (keydown.enter)="$event.preventDefault()">
+        <div class="form-group">
+        <!--prevent default submit on enter/have to click button  -->
+            <label for="name">Recipe Name</label>
+            
+            <input type="text" class="form-control" id="name" [(ngModel)]="recipe.name" name="name" ng-required="recipe.name" placeholder="Enter recipe name">
+        </div>
+        <br>
+
+        <div class="form-group">
+            <label for="name">Image URL</label>
+            <input type="text" size="25" class="form-control" id="image" [(ngModel)]="recipe.image" name="image" placeholder="Enter recipe url">
+        </div>
+        <br>
+
+        <button type="submit" class="btn btn-success">Submit</button>
+    </form>
+    <br>
+
+    <div class="form-group">
+        <label for="name">Description</label>
+        <textarea
+         [(ngModel)]="recipe.description" class="form-control" id="description" required 
+            name="description" rows="20" cols="50" placeholder="Enter description" ></textarea>         
+    </div>
+</div>
+<!-- -->
+<div [hidden]="!submited">
+    <h4>You submitted successfully!</h4>
+    <table>
+        <tr>
+            <td><button class="btn btn-success" (click)="gotoList()">List</button></td>         
+        </tr>
+    </table>
+</div>

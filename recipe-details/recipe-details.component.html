@@ -1,0 +1,55 @@
+<h2>Recipe details for:</h2>
+
+
+<div *ngIf="recipe">
+  <div>
+    <!--
+      <label><b>First Name: </b></label> {{employee.firstName}}
+       <b>{{recipe.name}}</b> 
+    -->
+    Recipe id: {{recipe.id}}
+    
+    <br>
+    <b>{{recipe.name}}</b>
+  </div>
+
+  <div>
+    <!--
+        <label><b>Image: </b></label> 
+        {{recipe.image}}
+     -->
+    <img src={{recipe.image}} width="400" height="auto" style="vertical-align: middle;">
+  </div>
+
+
+  <b>Recipe Description: </b>
+  <div>
+    <!--
+      <label><b>Recipe Description: </b></label> 
+      {{recipe.description}}
+    -->
+
+    <textarea style="vertical-align: middle;" rows="20" cols="60" disabled>
+      {{recipe.description}}
+    </textarea>
+  </div>
+
+</div>
+
+<br>
+<br>
+<div>
+  <table>
+    <tr>
+      <td>
+        <button (click)="images()" class="btn btn-primary">View Recipe Images</button><br>
+      </td>
+      <td>
+        <button (click)="list()" class="btn btn-primary">Recipe List/Edit</button><br>
+      </td>
+      <td>
+        <button (click)="add()" class="btn btn-primary">Add A New Recipe</button><br>
+      </td>
+    </tr>
+  </table>
+</div>

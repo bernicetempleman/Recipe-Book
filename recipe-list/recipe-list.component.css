@@ -1,0 +1,17 @@
+div {
+    resize: both;
+    overflow: auto;
+  }
+  button {
+    
+    height:40px;
+    width:80px;
+}
+.buttons{
+  position: absolute;
+  top:50%;
+  right: 0;
+  width: 120px;
+  transform: translateY(-50%);
+}
+

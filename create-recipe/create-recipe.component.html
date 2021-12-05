@@ -1,0 +1,51 @@
+<h3>Create Recipe</h3>
+<div [hidden]="submitted" style="width: 400px;">
+    <!--Added event,PreventDefault-->
+    <form (ngSubmit)="onSubmit()" (keydown.enter)="$event.preventDefault()">
+        <div class="form-group">
+            <label for="name">Enter Recipe Name</label>
+            <!--Added placeholder -->
+            <input type="text" class="form-control" id="name" size="50" [(ngModel)]="recipe.name" name="name"
+                placeholder="Enter Recipe name">
+        </div>
+
+        <!-- use textarea
+        <div class="form-group">
+            <label for="description">Enter Description</label>  
+            <input type="text" class="form-control" id="description" required [(ngModel)]="recipe.description" name="description">   
+        </div>
+        -->
+        <br>
+
+        <div class="form-group">
+            <label for="name">Enter Image URL or use default</label>
+            <input type="text" class="form-control" id="image" [(ngModel)]="recipe.image" name="image"
+                placeholder="Enter image url" required>
+        </div>
+
+        <br>
+
+        <div class="form-group">
+            <button type="submit" class="btn btn-success">Submit</button>
+        </div>
+    </form>
+
+    <br>
+    <label for="description">Enter Description</label>
+    <textarea type="text" class="form-control" id="description" [(ngModel)]="recipe.description" name="description"
+        rows="20" cols="50" wrap="hard" placeholder="Enter description">
+    </textarea>
+</div>
+
+<div [hidden]="!submitted">
+    <h4>You submitted successfully!</h4>
+    <table>
+        <tr>
+            <td>
+            <button (click)="images()" class="btn btn-primary">View Recipe Images</button>
+            </td>
+            <td><button class="btn btn-success" (click)="gotoList()">Recpe List/Edit</button></td>
+            <td><button class="btn btn-success" (click)="newRecipe()">Add A Recipe</button></td>
+        </tr>
+    </table>
+</div>

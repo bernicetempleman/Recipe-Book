@@ -1,0 +1,63 @@
+<div class="panel panel-primary">
+  <div class="panel-heading">
+    <h2>Recipe List</h2>
+  </div>
+  <div class="panel-body">
+    <table class="table table-striped">
+      <!--
+        <thead>
+          <tr>
+            <th>Image</th>
+            <th>Name</th>
+            <th>Description</th>  
+            <th>Actions</th>
+          </tr>
+        </thead>
+      -->
+      <tbody>
+        <tr *ngFor="let recipe of recipes | async">
+          <td>
+            <img src={{recipe.image}} width="100" height="auto">
+          </td>
+
+        <td>
+        <tr>
+          <td style="width:50px; white-space: pre">
+            <b>{{recipe.name.substr(0,25)}}</b>
+          </td>
+        </tr>
+        <tr>
+          <td rowspan="2" style="width:15px;  white-space: pre">
+            {{recipe.description.substr(0,25)}}...
+          </td>
+        </tr>
+        <tr><td></td></tr>
+        </td>
+
+        <td ckass="buttons">
+          <tr>
+            <td>
+              <button (click)="recipeDetails(recipe.id)" class="btn btn-info"
+                ><b>Details</b></button>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <button (click)="updateRecipe(recipe.id)" class="btn btn-info"
+                style="color:white; background-color:green">Update</button>
+            </td>
+          </tr>
+
+          <tr>
+            <td>
+              <button (click)="deleteRecipe(recipe.id)" class="btn btn-danger">Delete</button>
+            </td>
+          </tr>
+        </td>
+
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>

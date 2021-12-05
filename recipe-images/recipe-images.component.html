@@ -1,0 +1,12 @@
+<h3>Recipe Images...click for more details</h3>
+<div class="gallery" *ngFor="let recipe of recipes | async">
+    <button (click)="recipeDetails(recipe.id)" class="btn btn-info">
+        <img src={{recipe.image}} width="300" height="auto">
+    </button>
+    <div class="desc">
+        {{recipe.name}}
+    </div>
+    <div class="desc">
+        {{recipe.description.substr(0,25)}}...
+    </div>
+</div>
